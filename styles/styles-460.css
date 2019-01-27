@@ -1,0 +1,8 @@
+.header .title {
+  font-size: 1.5em;
+}
+
+
+.education-item .image:hover {
+  transform: scale(1.1);
+}

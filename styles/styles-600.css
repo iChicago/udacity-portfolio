@@ -1,0 +1,18 @@
+.header .title {
+  font-size: 2.5em;
+}
+
+
+.education {
+  justify-content: space-between;
+}
+
+
+.education-item {
+  width: 48%;
+}
+
+
+.education-item .image:hover {
+  transform: scale(1.1);
+}
